@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>Order-Microservice</name>
+	<name>Order</name>
 	<description>OMS order Microservice</description>
 
 	<parent>
